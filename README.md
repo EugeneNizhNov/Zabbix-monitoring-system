@@ -36,7 +36,7 @@
 2. Приложите в файл README.md текст использованных команд в GitHub.
 
 
-![Скриншот авторизации в админке](https://github.com/EugeneNizhNov/Zabbix-monitoring-system/tree/main/img/Screenshot_1.jpg)
+![Скриншот авторизации в админке](img/Screenshot_1.jpg)
 
 
 
