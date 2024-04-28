@@ -36,7 +36,7 @@
 2. Приложите в файл README.md текст использованных команд в GitHub.
 
 
-![Скриншот авторизации в админке](https://github.com/EugeneNizhNov/Zabbix-monitoring-system/tree/main/img\Screenshot_1.jpg)
+![Скриншот авторизации в админке](https://github.com/EugeneNizhNov/Zabbix-monitoring-system/tree/main/img/Screenshot_1.jpg)
 
 
 
@@ -59,14 +59,14 @@
 4. Приложите в файл README.md текст использованных команд в GitHub
 
 
-![Скриншот раздела Configuration > Hosts, где видно, что агенты подключены к серверу](https://github.com/EugeneNizhNov/Zabbix-monitoring-system/tree/main/img\Screenshot_3.jpg)
+![Скриншот раздела Configuration > Hosts, где видно, что агенты подключены к серверу](https://github.com/EugeneNizhNov/Zabbix-monitoring-system/tree/main/img/Screenshot_3.jpg)
 TestAgnt 192.168.56.15 - Debian сервер с установленным Zabbix агентом
 TestSrv lovalhost (192.168.56.10) - Debian сервер с установленным Zabbix сервером и агентом
 
-![Скриншот лога zabbix agent, где видно, что он работает с сервером](https://github.com/EugeneNizhNov/Zabbix-monitoring-system/tree/main/img\Screenshot_2.jpg)
+![Скриншот лога zabbix agent, где видно, что он работает с сервером](https://github.com/EugeneNizhNov/Zabbix-monitoring-system/tree/main/img/Screenshot_2.jpg)
 debabagnt (192.168.56.15) - агент работает с сервером
 
-![Скриншот лога zabbix agent, где видно, что он работает с сервером](https://github.com/EugeneNizhNov/Zabbix-monitoring-system/tree/main/img\Screenshot_6.jpg)
+![Скриншот лога zabbix agent, где видно, что он работает с сервером](https://github.com/EugeneNizhNov/Zabbix-monitoring-system/tree/main/img/Screenshot_6.jpg)
 
 ### Использовал следующие комманды Git
 git clone https://github.com/EugeneNizhNov/Zabbix-monitoring-system.git
